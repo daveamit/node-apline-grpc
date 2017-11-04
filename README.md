@@ -5,6 +5,11 @@ Node grpc requirs libc6-compat to work. Official Node Alpine does not come with 
 1. It has `libc6-compat`
 2. It does `not have yarn`
 
+## Tags
+  daveamit/node-alpine-grpc:latest (Node version: v9.0.0)
+  daveamit/node-alpine-grpc:v9.0.0 (Node version: v9.0.0) 
+  daveamit/node-alpine-grpc:v8.9.0 (Node version: v8.9.0) 
+
 ## Usage (Dockerfile)
 ```
 FROM daveamit/node-alpine-grpc
